@@ -91,3 +91,5 @@ Makefile
 docker-artifacts
 compile_commands.json
 plugins/gtkui/gtkui-gresources.c
+.DS_Store
+osx/.DS_Store
